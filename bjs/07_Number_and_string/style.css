@@ -1,3 +1,17 @@
+.card-body {
+    background-color: rgb(49, 46, 46);
+}
+
+.btn-outline-danger {
+    background-color: #e95c6a;
+    color: white;
+}
+
+.btn-outline-primary {
+    background-color: #4c9aee;
+    color: white;
+}
+
 .calc-row {
     height: 100vh;
     font-family: 'Share Tech Mono', monospace;
